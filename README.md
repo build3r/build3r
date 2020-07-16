@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Shabaz Ahmed, I mostly use this account for personal projects and for the various hack project which I build during hackathons.
-- 🔭 I’m currently leading Mobile Engineering efforts at [KarmaLife](karmalife.ai
+- 🔭 I’m currently leading Mobile Engineering efforts at ![KarmaLife](karmalife.ai)
 - 🌱 I’m currently learning Deeplearning with fast.ai
 - 💬 Ask me about hacking, Android development, philosphy and fitness
 - 📫 How to reach me: shabaz1729@gmail.com or https://build3r.github.io/
