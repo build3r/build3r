@@ -3,7 +3,7 @@ I'm Shabaz Ahmed, I mostly use this account for personal projects and for the va
 - 🔭 I’m currently leading Mobile Engineering efforts at [KarmaLife](https://karmalife.ai)
 - 🌱 I’m currently learning Deeplearning with fast.ai.
 - 🧠 I'm currently reading Ultralearning and Daily Stoic books.
-- 💬 Ask me about hacking, Android development, philosphy and fitness
+- 💬 Ask me about hacking, Android development, philosophy or fitness
 - 📫 How to reach me: shabaz1729@gmail.com or https://build3r.github.io/
 - ⚡ Fun fact: I have participated in **89 hackathons** till date and have **won 53** of them.
 <!--
