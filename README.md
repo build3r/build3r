@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Shabaz Ahmed, I mostly use this account for personal projects and for the various projects which I build during hackathons.
 - 🔭 I’m currently Engineering Lead / Product manager at [KarmaLife](https://karmalife.ai)
-- 🌱 I’m currently working on Web3 projects using Solana.
+- 🌱 I’m currently experimenting with LLMs.
 - 🧠 I'm currently reading "Show Your Work" and "Daily Stoic" books.
 - 💬 Ask me about hacking, Android development, philosophy or fitness
 - 📫 How to reach me: shabaz1729@gmail.com or https://build3r.github.io/
